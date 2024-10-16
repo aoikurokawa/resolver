@@ -3,6 +3,7 @@ mod initialize_config;
 mod initialize_ncn_resolver_program_config;
 mod initialize_resolver;
 mod propose_slash;
+mod set_resolver;
 mod veto_slash;
 
 use borsh::BorshDeserialize;
